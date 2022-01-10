@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0630d90b-ea33-4b70-91db-da9c16eef363": {
+      "ProjectGuid": "0630d90b-ea33-4b70-91db-da9c16eef363",
+      "DisplayName": "GameStats2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
